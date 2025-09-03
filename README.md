@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>INFILINK • IoT Visioners</title>
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="wrap header-inner">
+      <a class="brand" href="index.html">
+        <img class="logo" src="INFI LINK.png" alt="INFILINK logo" />
+        <div class="brand-text">
+          <strong>INFILINK</strong>
+          <span>IoT Visioners</span>
+        </div>
+      </a>
+      <nav class="nav">
+        <a class="nav-link active" href="index.html">Home</a>
+        <a class="nav-link" href="team.html">Team</a>
+        <a class="nav-link" href="projects.html">Projects</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <section class="hero card">
+      <h1>Livestock Management & Health Monitoring</h1>
+      <p class="lead">
+        We build smart IoT solutions to monitor animal actions and health in real time—helping
+        farmers prevent disease, improve welfare, and increase productivity.
+      </p>
+      <div class="badges">
+        <span class="badge">Company: INFILINK</span>
+        <span class="badge">Team: IoT Visioners</span>
+        <span class="badge">Domain: Livestock Management</span>
+      </div>
+    </section>
+
+    <section class="grid grid-2">
+      <div class="card">
+        <h2>What We Do</h2>
+        <ul class="list">
+          <li>Wearables to track temperature, activity, rumination</li>
+          <li>Early disease detection & anomaly alerts</li>
+          <li>GPS-based movement & geofencing</li>
+          <li>Dashboards and mobile notifications</li>
+        </ul>
+      </div>
+      <div class="card">
+        <h2>Why It Matters</h2>
+        <ul class="list">
+          <li>Reduce losses from undetected illness</li>
+          <li>Optimize breeding and feeding cycles</li>
+          <li>Increase milk/meat yield with data-driven care</li>
+          <li>Timely interventions to protect herds</li>
+        </ul>
+      </div>
+    </section>
+
+    <section class="card">
+      <h2>Our Vision</h2>
+      <p>
+        A connected, data-driven future for agriculture where every animal’s wellbeing is visible,
+        actionable, and continuously improving.
+      </p>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap">
+      © 2025 INFILINK • IoT Visioners
+    </div>
+  </footer>
+</body>
+</html>
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Team • INFILINK</title>
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="wrap header-inner">
+      <a class="brand" href="index.html">
+        <img class="logo" src="INFI LINK.png" alt="INFILINK logo" />
+        <div class="brand-text">
+          <strong>INFILINK</strong>
+          <span>IoT Visioners</span>
+        </div>
+      </a>
+      <nav class="nav">
+        <a class="nav-link" href="index.html">Home</a>
+        <a class="nav-link active" href="team.html">Team</a>
+        <a class="nav-link" href="projects.html">Projects</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <section class="card">
+      <h1>Meet the Team</h1>
+      <p class="lead">A focused crew turning sensor data into farmer-friendly insights.</p>
+
+      <div class="grid grid-2 grid-3@lg team-grid">
+        <article class="member">
+          <h3>Shaik Ayesha</h3>
+          <p class="role">Team Leader</p>
+        </article>
+        <article class="member">
+          <h3>Gayathri</h3>
+          <p class="role">Handles emails with clients</p>
+        </article>
+        <article class="member">
+          <h3>Anitha</h3>
+          <p class="role">Handles PPT information</p>
+        </article>
+        <article class="member">
+          <h3>Triveni</h3>
+          <p class="role">Handles questions & answers</p>
+        </article>
+        <article class="member">
+          <h3>Sabiha</h3>
+          <p class="role">Handles PPT information</p>
+        </article>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap">
+      © 2025 INFILINK • IoT Visioners
+    </div>
+  </footer>
+</body>
+</html>
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Projects • INFILINK</title>
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="wrap header-inner">
+      <a class="brand" href="index.html">
+        <img class="logo" src="INFI LINK.png" alt="INFILINK logo" />
+        <div class="brand-text">
+          <strong>INFILINK</strong>
+          <span>IoT Visioners</span>
+        </div>
+      </a>
+      <nav class="nav">
+        <a class="nav-link" href="index.html">Home</a>
+        <a class="nav-link" href="team.html">Team</a>
+        <a class="nav-link active" href="projects.html">Projects</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <section class="card">
+      <h1>Projects</h1>
+      <ul class="project-list">
+        <li>
+          <h3>Animal Health Monitoring</h3>
+          <p>Body temperature + activity tracking with alert thresholds and daily summaries.</p>
+        </li>
+        <li>
+          <h3>Smart Collar Tracker</h3>
+          <p>GPS + accelerometer for movement and grazing patterns with geofencing.</p>
+        </li>
+        <li>
+          <h3>Poultry Disease Detection</h3>
+          <p>Early anomaly detection to reduce outbreaks and mortality.</p>
+        </li>
+        <li>
+          <h3>Smart Dairy Insights</h3>
+          <p>Correlate milk yield with behavior and feed to optimize production.</p>
+        </li>
+        <li>
+          <h3>Abnormal Behavior Alerts</h3>
+          <p>Real-time push notifications to farmers for quick interventions.</p>
+        </li>
+      </ul>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap">
+      © 2025 INFILINK • IoT Visioners
+    </div>
+  </footer>
+</body>
+</html>
